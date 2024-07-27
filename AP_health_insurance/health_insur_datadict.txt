@@ -1,0 +1,24 @@
+Sno	Serial number or identifier assigned to each record
+AGE	Age of the individual
+SEX	Gender of the individual (Male, Female, MALE, FEMALE, Male_child, Female_child)
+CASTE_NAME	Caste name of the individual
+CATEGORY_CODE	Code representing a medical branch in which the surgery is taking place
+CATEGORY_NAME	Name of the medical branch in which the
+surgery is taking place
+SURGERY_CODE	Code representing the type of surgery
+SURGERY	Description of the surgery
+VILLAGE	Name of the village
+MANDAL_NAME	Name of the mandal
+DISTRICT_NAME	Name of the district
+PREAUTH_DATE	Date of preauthorization
+PREAUTH_AMT	Amount authorized during preauthorization
+CLAIM_DATE	Date of the insurance claim
+CLAIM_AMOUNT	Amount claimed in the insurance
+HOSP_NAME	Name of the hospital
+HOSP_TYPE	Type of hospital (Government or Commercial)
+HOSP_DISTRICT	District where the hospital is located
+SURGERY_DATE	Date of the surgery
+DISCHARGE_DATE	Date of discharge
+Mortality Y / N	Indicates whether there was mortality (YES, NO)
+MORTALITY_DATE	Date of death
+SRC_REGISTRATION	Source registration code
